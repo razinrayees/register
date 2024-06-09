@@ -5,6 +5,9 @@
   },
 
   "record": {
-    "CNAME": "razin.pages.dev"
+    "TXT" : name:"_vercel", Value:"vc-domain-verify=razin.is-a.dev,79a562ffa01a0a9591dc",
+
+    "MX": ["mx1.forwardemail.net", "mx2.forwardemail.net"],
+    "TXT": "forward-email=razin.rayeesk@gmail.com"
   }
 }
